@@ -7,7 +7,7 @@ Preparing environment
 ++++++++++++++++++++++
 
 - You'll need a developing instance of `ERP5 <http://www.erp5.com>`_ (I'd recommend `installing it through SlapOS <http://www.erp5.com/download/linux>`_)
-- Download ``erp5_bldd_feature`` and install it as a `bt5 <http://www.erp5.org/HowToInstallBusinessTemplates>`_ , first taking out ``README.rst``, ``ERP5TypeTestCase.py`` and ``workflow_analyzer`` files/folders
+- Download ``erp5_bldd_feature`` and install it as a `bt5 <http://www.erp5.org/HowToInstallBusinessTemplates>`_ , first taking out ``README.rst``, ``ERP5TypeTestCase.py``, ``license.txt`` and ``workflow_analyzer`` files/folders (not related directly to the bt5)
 - Place  ``workflow_analyzer`` folder at ``ERP5Type/tests`` product folder, so that python will find ``Products.ERP5Type.tests.workflow_analyzer`` to import
 - Patch ``Products.ERP5Type.tests.ERP5TypeTestCase`` like shown in ``ERP5TypeTestCase.py`` available here
 

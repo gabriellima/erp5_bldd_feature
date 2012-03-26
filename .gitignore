@@ -1,1 +1,2 @@
 *.pyc
+workflow_analyzer/analyzer.db

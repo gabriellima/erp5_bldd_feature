@@ -3,8 +3,8 @@ BLDD Features
 
 This is my final work of BS in Computer Science at UENF (Universidade Estadual do Norte Fluminense - RJ / Brazil)
 
-Preparing environment
-++++++++++++++++++++++
+Preparing the environment
++++++++++++++++++++++++++
 
 - You'll need a developing instance of `ERP5 <http://www.erp5.com>`_ (I'd recommend `installing it through SlapOS <http://www.erp5.com/download/linux>`_)
 - Clone this project and install the inner `erp5_bldd_feature <https://github.com/gabriellima/erp5_bldd_feature/tree/master/erp5_bldd_feature>`_ folder as a `bt5 <http://www.erp5.org/HowToInstallBusinessTemplates>`_

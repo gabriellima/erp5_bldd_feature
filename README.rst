@@ -7,9 +7,9 @@ Preparing environment
 ++++++++++++++++++++++
 
 - You'll need a developing instance of `ERP5 <http://www.erp5.com>`_ (I'd recommend `installing it through SlapOS <http://www.erp5.com/download/linux>`_)
-- Clone this project and install the inner ``erp5_bldd_feature`` folder as a `bt5 <http://www.erp5.org/HowToInstallBusinessTemplates>`_
-- Place  ``workflow_analyzer`` folder at ``ERP5Type/tests`` product folder, so that python will find ``Products.ERP5Type.tests.workflow_analyzer`` to import
-- Patch ``Products.ERP5Type.tests.ERP5TypeTestCase`` like shown in ``ERP5TypeTestCase.py`` available here
+- Clone this project and install the inner `erp5_bldd_feature <https://github.com/gabriellima/erp5_bldd_feature/tree/master/erp5_bldd_feature>`_ folder as a `bt5 <http://www.erp5.org/HowToInstallBusinessTemplates>`_
+- Place  `workflow_analyzer <https://github.com/gabriellima/erp5_bldd_feature/tree/master/workflow_analyzer>`_ folder at ``ERP5Type/tests`` product folder, so that python will find ``Products.ERP5Type.tests.workflow_analyzer`` to import
+- Patch ``Products.ERP5Type.tests.ERP5TypeTestCase`` like shown in `ERP5TypeTestCase.py <https://github.com/gabriellima/erp5_bldd_feature/blob/master/ERP5TypeTestCase.py>`_
 
 Using
 ++++++
@@ -28,4 +28,4 @@ Using
 
 ---------------------------------------
 
-This project is licensed under `GNU General Public License <http://www.gnu.org/licenses/gpl-2.0.html>`_. For more information, read ``license.txt``.
+This project is licensed under `GNU General Public License <http://www.gnu.org/licenses/gpl-2.0.html>`_. For more information, read `license.txt <https://github.com/gabriellima/erp5_bldd_feature/blob/master/license.txt>`_.

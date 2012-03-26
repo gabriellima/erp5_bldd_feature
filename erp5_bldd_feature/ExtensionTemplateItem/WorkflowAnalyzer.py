@@ -1,6 +1,6 @@
 ##############################################################################
 #
-# Copyright (c) 2002-2011 Nexedi SA and Contributors. All Rights Reserved.
+# Copyright (c) 2002-2012 Nexedi SA and Contributors. All Rights Reserved.
 #                         Gabriel L. Oliveira <ciberglo@gmail.com>
 #
 # WARNING: This program as such is intended to be used by professional
